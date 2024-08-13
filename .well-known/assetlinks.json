@@ -5,7 +5,7 @@
 		],
 		"target": {
 			"namespace": "android_app",
-			"package_name": "com.app.tunerinst",
+			"package_name": "com.app.custo-impressao-3d",
 			"sha256_cert_fingerprints": [
 				"8E:C4:76:85:07:B7:33:C0:EC:D7:2E:6D:00:38:06:6B:59:76:36:89:2B:0D:75:14:15:29:D2:97:DD:EB:A9:1F",
 				"BD:1C:5A:14:A5:69:E8:9D:D8:06:F0:A3:98:26:2D:8A:B2:8D:0C:EA:47:C8:9B:14:DC:CC:20:BD:15:99:56:79"
